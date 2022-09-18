@@ -15,9 +15,6 @@ certifi==2021.10.8
 click==8.0.3
 commonmark==0.9.1
 comtypes==1.1.10
-conda==4.12.0
-conda-build==3.21.6
-conda-verify==3.4.2
 cycler==0.10.0
 cytoolz==0.11.0
 daal4py==2021.3.0
